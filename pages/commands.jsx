@@ -72,7 +72,7 @@ export default function Commands() {
     ".spotifytrack",
     ".spotifyalbum",
     ".ss",
-    ".steal"
+    ".steal",
     ".tiktok link",
     ".tiktok user",
     ".trace",
