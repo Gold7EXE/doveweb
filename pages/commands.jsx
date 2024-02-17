@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Commands() {
   const commands = [
     ".8ball",
-    ".addmultiple dove can you grant me power",
+    ".addmultiple",
     ".afk",
     ".agify",
     ".among",
@@ -55,7 +55,7 @@ export default function Commands() {
     ".restart cogs",
     ".restart",
     ".rob",
-    ".roledelete @dove",
+    ".roledelete",
     ".roles",
     ".say",
     ".sav",
