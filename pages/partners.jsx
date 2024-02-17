@@ -18,12 +18,12 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://codeshare.me">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/676124992919830548/72826a4ed7d1a010df263623be5dd4ba.png" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/z6-laGzTb7MslDuef-5YpOMGpYtarei0gzrU5koGfMU/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1202655982187057172/a_d9b611d80e7309470ad44c4da438a75a.png?format=webp&quality=lossless&width=387&height=387" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Wornsets</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
+                                      Wornsets, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
                                     </p>
                                 </div>     
                             </div>
