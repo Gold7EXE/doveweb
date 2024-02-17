@@ -90,7 +90,7 @@ Vote Dove</a>
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Dove, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1178530750144970924/1208254933082701935/image.png?ex=65e29e18&is=65d02918&hm=444c1b3194be824f21b04d940ceea4d691b4bd16601f9254fa97825cc40359a3&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
