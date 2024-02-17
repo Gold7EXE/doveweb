@@ -56,7 +56,6 @@ export default function Commands() {
     ".p",
     ".pin",
     ".unpin",
-    ".playlist",
     ".purge/p",
     ".quickpoll",
     ".rob",
